@@ -17,3 +17,10 @@ Length
 breadth
 height
 thickness
+
+
+given below is the joining of plastic parts:-
+
+image taken from the internet:
+
+![Screenshot_20241025-102301](https://github.com/user-attachments/assets/8696caa5-ebfb-41cd-81ea-b1b94f5363d0)
